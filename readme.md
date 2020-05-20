@@ -46,7 +46,7 @@ The PIC18F47Q10 Curiosity Nano Development Board is used as test platform.
 <br><img src="images/pause.PNG" width="600">
 
 
-7. Add *celsiusValue* variable do the *Variables window*: right click on the `celsiusValue` variable in main.c file and click *New Watch*:
+7. Add *celsiusValue* variable to the *Variables window*: right click on the `celsiusValue` variable in main.c file and click *New Watch*:
 <br><img src="images/watch.PNG" width="600">
 
 
