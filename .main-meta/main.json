@@ -5,7 +5,7 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-adcc-temperature-mcc",
         "version": "1.0.3",
-        "displayName": "ADCC Internal Temperature Conversion Configuration Exampl",
+        "displayName": "ADCC Internal Temperature Conversion Configuration Example",
         "projectName": "pic18f47q10-cnano-adcc-temperature-mcc",
         "shortDescription": "In this demo, the ADCC peripheral is used to read a value from the internal temperature sensor.",
         "ide": {
