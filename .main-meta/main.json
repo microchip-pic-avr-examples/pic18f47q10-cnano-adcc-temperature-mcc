@@ -38,9 +38,9 @@
         },
         "author": "Microchip",
         "subcategories": [
-            "Peripherals",
             [
-               "Peripherals", "ADCC"
+               "Peripherals",
+			   "ADCC"
             ]      			
         ],
         "peripherals": [
